@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rob, an <a href="https://www.linkedin.com/in/roberto-tamburro-0b4487203/">IT Professional</a>☺</h1> (In training)
+<h1>Hi, I'm Rob, an <a href="www.linkedin.com/in/Roberto-">IT Professional</a>☺</h1> (In training)
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -16,6 +16,7 @@
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[twitter]: https://twitter.com/Josh
-[instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/Josh
+[twitter]: [https://twitter.com/Robsberry]
+[instagram]: 
+[linkedin]: [https://www.linkedin.com/in/Roberto-]
+
